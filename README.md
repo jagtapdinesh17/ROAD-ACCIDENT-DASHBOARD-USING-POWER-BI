@@ -4,10 +4,7 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Data Source](#data-source)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Project Overview
 
